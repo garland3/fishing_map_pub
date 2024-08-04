@@ -13,6 +13,14 @@
                 "species": "catfish"
             },
             {
+                "hatchery": "PRIVATE",
+                "lbs": 425,
+                "length": "18.0",
+                "number": 255,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
+            {
                 "hatchery": "RED RIVER TROUT HATCHERY",
                 "lbs": 435,
                 "length": "10.1",
@@ -27,6 +35,14 @@
         "lat": 33.4364547461826,
         "long": -104.497808192706,
         "reports": [
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
             {
                 "hatchery": "PRIVATE",
                 "lbs": 213,
@@ -65,6 +81,14 @@
                 "number": 316,
                 "stock_date": "2024-07-02",
                 "species": "catfish"
+            },
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 540,
+                "length": "18.0",
+                "number": 324,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
             }
         ]
     },
@@ -73,6 +97,14 @@
         "lat": 34.9727305,
         "long": -105.0323635,
         "reports": [
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
             {
                 "hatchery": "PRIVATE",
                 "lbs": 213,
@@ -90,6 +122,14 @@
         "reports": [
             {
                 "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
+            {
+                "hatchery": "PRIVATE",
                 "lbs": 213,
                 "length": "18.0",
                 "number": 128,
@@ -103,6 +143,14 @@
         "lat": 33.6417408,
         "long": -105.877212,
         "reports": [
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
             {
                 "hatchery": "PRIVATE",
                 "lbs": 213,
@@ -120,6 +168,14 @@
         "reports": [
             {
                 "hatchery": "PRIVATE",
+                "lbs": 319,
+                "length": "18.0",
+                "number": 191,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
+            {
+                "hatchery": "PRIVATE",
                 "lbs": 320,
                 "length": "18.0",
                 "number": 192,
@@ -133,6 +189,14 @@
         "lat": 32.8098268,
         "long": -103.7514341,
         "reports": [
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
             {
                 "hatchery": "PRIVATE",
                 "lbs": 213,
@@ -155,6 +219,14 @@
                 "number": 316,
                 "stock_date": "2024-07-02",
                 "species": "catfish"
+            },
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 751,
+                "length": "18.0",
+                "number": 451,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
             }
         ]
     },
@@ -163,6 +235,14 @@
         "lat": 34.2509071,
         "long": -105.5966686,
         "reports": [
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
             {
                 "hatchery": "PRIVATE",
                 "lbs": 213,
@@ -180,6 +260,14 @@
         "reports": [
             {
                 "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
+            {
+                "hatchery": "PRIVATE",
                 "lbs": 213,
                 "length": "18.0",
                 "number": 128,
@@ -193,6 +281,14 @@
         "lat": 34.1217009,
         "long": -106.8909493,
         "reports": [
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 319,
+                "length": "18.0",
+                "number": 191,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
             {
                 "hatchery": "PRIVATE",
                 "lbs": 320,
@@ -218,6 +314,14 @@
         "reports": [
             {
                 "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
+            {
+                "hatchery": "PRIVATE",
                 "lbs": 213,
                 "length": "18.0",
                 "number": 128,
@@ -239,6 +343,14 @@
         "lat": 32.4373434,
         "long": -103.1590798,
         "reports": [
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
             {
                 "hatchery": "PRIVATE",
                 "lbs": 213,
@@ -284,6 +396,14 @@
                 "number": 252,
                 "stock_date": "2024-07-02",
                 "species": "catfish"
+            },
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 425,
+                "length": "18.0",
+                "number": 255,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
             }
         ]
     },
@@ -299,6 +419,14 @@
                 "number": 252,
                 "stock_date": "2024-07-02",
                 "species": "catfish"
+            },
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 425,
+                "length": "18.0",
+                "number": 255,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
             }
         ]
     },
@@ -307,6 +435,14 @@
         "lat": 35.6480855,
         "long": -106.3375267,
         "reports": [
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
             {
                 "hatchery": "PRIVATE",
                 "lbs": 213,
@@ -322,6 +458,14 @@
         "lat": 32.1131814,
         "long": -103.1935127,
         "reports": [
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
             {
                 "hatchery": "PRIVATE",
                 "lbs": 213,
@@ -346,6 +490,14 @@
                 "species": "catfish"
             },
             {
+                "hatchery": "PRIVATE",
+                "lbs": 540,
+                "length": "18.0",
+                "number": 324,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
+            {
                 "hatchery": "RED RIVER TROUT HATCHERY",
                 "lbs": 435,
                 "length": "10.1",
@@ -360,6 +512,14 @@
         "lat": 35.2219087,
         "long": -106.6243191,
         "reports": [
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
             {
                 "hatchery": "PRIVATE",
                 "lbs": 213,
@@ -377,6 +537,14 @@
         "reports": [
             {
                 "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
+            {
+                "hatchery": "PRIVATE",
                 "lbs": 213,
                 "length": "18.0",
                 "number": 128,
@@ -390,6 +558,14 @@
         "lat": 34.5141453,
         "long": -103.1787071,
         "reports": [
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
             {
                 "hatchery": "PRIVATE",
                 "lbs": 213,
@@ -412,6 +588,14 @@
                 "number": 252,
                 "stock_date": "2024-07-02",
                 "species": "catfish"
+            },
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 425,
+                "length": "18.0",
+                "number": 255,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
             }
         ]
     },
@@ -420,6 +604,14 @@
         "lat": 35.4500409,
         "long": -105.5775143,
         "reports": [
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
             {
                 "hatchery": "PRIVATE",
                 "lbs": 213,
@@ -442,6 +634,22 @@
                 "number": 128,
                 "stock_date": "2024-07-02",
                 "species": "catfish"
+            },
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 411,
+                "length": "18.0",
+                "number": 247,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
+            {
+                "hatchery": "ROCK LAKE TROUT REARING FACILITY",
+                "lbs": 38,
+                "length": "16.2",
+                "number": 19,
+                "stock_date": "2024-08-02",
+                "species": "bass"
             }
         ]
     },
@@ -450,6 +658,14 @@
         "lat": 35.179161,
         "long": -106.9240554,
         "reports": [
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
             {
                 "hatchery": "PRIVATE",
                 "lbs": 213,
@@ -465,6 +681,14 @@
         "lat": 33.3942655,
         "long": -104.5230242,
         "reports": [
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
             {
                 "hatchery": "PRIVATE",
                 "lbs": 213,
@@ -487,6 +711,14 @@
                 "number": 505,
                 "stock_date": "2024-07-16",
                 "species": "trout"
+            },
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
             },
             {
                 "hatchery": "PRIVATE",
@@ -529,6 +761,14 @@
             },
             {
                 "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
+            {
+                "hatchery": "PRIVATE",
                 "lbs": 213,
                 "length": "18.0",
                 "number": 128,
@@ -552,6 +792,14 @@
             },
             {
                 "hatchery": "PRIVATE",
+                "lbs": 211,
+                "length": "18.0",
+                "number": 127,
+                "stock_date": "2024-08-01",
+                "species": "catfish"
+            },
+            {
+                "hatchery": "PRIVATE",
                 "lbs": 213,
                 "length": "18.0",
                 "number": 128,
@@ -565,6 +813,14 @@
         "lat": 33.250833,
         "long": -107.1661766,
         "reports": [
+            {
+                "hatchery": "PRIVATE",
+                "lbs": 22,
+                "length": "2.1",
+                "number": 8030,
+                "stock_date": "2024-08-01",
+                "species": "bass"
+            },
             {
                 "hatchery": "ROCK LAKE TROUT REARING FACILITY",
                 "lbs": 6.8,
@@ -1072,8 +1328,8 @@
     },
     {
         "name": "SAN JUAN RIVER (BLW QUALITY)",
-        "lat": 37.0048443852154,
-        "long": -109.250417377803,
+        "lat": 36.6897441941826,
+        "long": -108.049355702192,
         "reports": [
             {
                 "hatchery": "LOS OJOS HATCHERY (PARKVIEW)",
@@ -1519,6 +1775,14 @@
             },
             {
                 "hatchery": "LOS OJOS HATCHERY (PARKVIEW)",
+                "lbs": 500,
+                "length": "11.2",
+                "number": 870,
+                "stock_date": "2024-07-30",
+                "species": "trout"
+            },
+            {
+                "hatchery": "LOS OJOS HATCHERY (PARKVIEW)",
                 "lbs": 800,
                 "length": "10.7",
                 "number": 1616,
@@ -1731,8 +1995,8 @@
     },
     {
         "name": "LOS PINOS RIVER",
-        "lat": 36.8208386,
-        "long": -107.6017207,
+        "lat": 36.9600098875199,
+        "long": -106.096752570886,
         "reports": [
             {
                 "hatchery": "RED RIVER TROUT HATCHERY",
@@ -2263,6 +2527,14 @@
                 "number": 500,
                 "stock_date": "2024-07-08",
                 "species": "trout"
+            },
+            {
+                "hatchery": "LISBOA SPRINGS TROUT HATCHERY",
+                "lbs": 207,
+                "length": "10.1",
+                "number": 499,
+                "stock_date": "2024-07-30",
+                "species": "trout"
             }
         ]
     },
@@ -2353,6 +2625,21 @@
                 "length": "3.94",
                 "number": 1885,
                 "stock_date": "2024-07-25",
+                "species": "trout"
+            }
+        ]
+    },
+    {
+        "name": "SAN JUAN RIVER (QUALITY)",
+        "lat": 37.0048443852154,
+        "long": -109.250417377803,
+        "reports": [
+            {
+                "hatchery": "RED RIVER TROUT HATCHERY",
+                "lbs": 1362,
+                "length": "4.8",
+                "number": 29991,
+                "stock_date": "2024-07-29",
                 "species": "trout"
             }
         ]
