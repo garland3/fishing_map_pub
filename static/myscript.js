@@ -51,6 +51,9 @@ fetch(getUrl())
             var recentReports = sortedReports.slice(0, 2);
 
             var popupContent = '<b>' + loc.name + '</b><br>';
+            // popupContent= '<b>' + loc.name + '</b><br>';
+            // popupContent += '<a href="https://www.google.com/maps/place/@' + loc.lat + ',' + loc.long + ',15z" target="_blank">View on Google Maps</a><br>'
+            popupContent += '<a href="https://www.google.com/maps/search/?api=1&query=' + loc.lat + ',' + loc.long + '" target="_blank">View on Google Maps</a><br>';
             recentReports.forEach(function (report) {
                 popupContent += 'Date: ' + report.stock_date + '<br>';
                 popupContent += 'Hatchery: ' + report.hatchery + '<br>';
@@ -137,13 +140,22 @@ function displayFullTable(location) {
     ];
 
     let table = `
-        <h2 class="text-2xl font-bold mb-4">${location.name} - All Reports</h2>
-        <div class="overflow-x-auto">
-            <table class="min-w-full divide-y divide-gray-200">
-                <thead class="bg-gray-50">
-                    <tr>
-    `;
-
+    <h2 class="text-2xl font-bold mb-4">
+        <a href="https://www.google.com/maps/search/?api=1&query=${location.lat},${location.long}" 
+           target="_blank" 
+           class="text-black hover:text-blue-700 hover:underline cursor-pointer flex items-center">
+            ${location.name} - All Reports
+            <svg class="w-4 h-4 ml-1 inline-block" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
+            </svg>
+        </a>
+    </h2>
+    <div class="overflow-x-auto">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+`;
     // Generate table header
     columns.forEach(column => {
         table += `<th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">${column.name}</th>`;
