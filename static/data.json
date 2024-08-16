@@ -99,6 +99,14 @@
         "reports": [
             {
                 "hatchery": "PRIVATE",
+                "lbs": 200,
+                "length": "18.0",
+                "number": 120,
+                "stock_date": "2024-08-03",
+                "species": "catfish"
+            },
+            {
+                "hatchery": "PRIVATE",
                 "lbs": 211,
                 "length": "18.0",
                 "number": 127,
@@ -875,6 +883,14 @@
                 "number": 1027,
                 "stock_date": "2024-07-17",
                 "species": "trout"
+            },
+            {
+                "hatchery": "LOS OJOS HATCHERY (PARKVIEW)",
+                "lbs": 600,
+                "length": "11.3",
+                "number": 1026,
+                "stock_date": "2024-08-05",
+                "species": "trout"
             }
         ]
     },
@@ -908,6 +924,14 @@
                 "species": "trout"
             },
             {
+                "hatchery": "LOS OJOS HATCHERY (PARKVIEW)",
+                "lbs": 300,
+                "length": "11.3",
+                "number": 513,
+                "stock_date": "2024-08-05",
+                "species": "trout"
+            },
+            {
                 "hatchery": "RED RIVER TROUT HATCHERY",
                 "lbs": 600,
                 "length": "4.5",
@@ -921,6 +945,22 @@
                 "length": "5.87",
                 "number": 9668,
                 "stock_date": "2024-07-23",
+                "species": "trout"
+            },
+            {
+                "hatchery": "RED RIVER TROUT HATCHERY",
+                "lbs": 790,
+                "length": "5.87",
+                "number": 10001,
+                "stock_date": "2024-08-06",
+                "species": "trout"
+            },
+            {
+                "hatchery": "RED RIVER TROUT HATCHERY",
+                "lbs": 847,
+                "length": "5.98",
+                "number": 9995,
+                "stock_date": "2024-08-07",
                 "species": "trout"
             }
         ]
@@ -1126,6 +1166,14 @@
                 "number": 398,
                 "stock_date": "2024-07-24",
                 "species": "trout"
+            },
+            {
+                "hatchery": "LOS OJOS HATCHERY (PARKVIEW)",
+                "lbs": 164,
+                "length": "10.0",
+                "number": 400,
+                "stock_date": "2024-08-06",
+                "species": "trout"
             }
         ]
     },
@@ -1134,6 +1182,14 @@
         "lat": 35.5742031,
         "long": -105.675016,
         "reports": [
+            {
+                "hatchery": "LISBOA SPRINGS TROUT HATCHERY",
+                "lbs": 372,
+                "length": "10.0",
+                "number": 908,
+                "stock_date": "2024-08-08",
+                "species": "trout"
+            },
             {
                 "hatchery": "LISBOA SPRINGS TROUT HATCHERY",
                 "lbs": 556,
@@ -1245,6 +1301,22 @@
                 "number": 1498,
                 "stock_date": "2024-07-25",
                 "species": "trout"
+            },
+            {
+                "hatchery": "LOS OJOS HATCHERY (PARKVIEW)",
+                "lbs": 636,
+                "length": "10.0",
+                "number": 1552,
+                "stock_date": "2024-08-06",
+                "species": "trout"
+            },
+            {
+                "hatchery": "LOS OJOS HATCHERY (PARKVIEW)",
+                "lbs": 636,
+                "length": "10.0",
+                "number": 1552,
+                "stock_date": "2024-08-07",
+                "species": "trout"
             }
         ]
     },
@@ -1267,6 +1339,14 @@
                 "length": "10.1",
                 "number": 699,
                 "stock_date": "2024-06-18",
+                "species": "trout"
+            },
+            {
+                "hatchery": "RED RIVER TROUT HATCHERY",
+                "lbs": 292,
+                "length": "10.1",
+                "number": 701,
+                "stock_date": "2024-08-09",
                 "species": "trout"
             },
             {
@@ -1345,6 +1425,14 @@
                 "length": "10.0",
                 "number": 2356,
                 "stock_date": "2024-06-18",
+                "species": "trout"
+            },
+            {
+                "hatchery": "LOS OJOS HATCHERY (PARKVIEW)",
+                "lbs": 1375,
+                "length": "11.4",
+                "number": 2310,
+                "stock_date": "2024-08-06",
                 "species": "trout"
             },
             {
@@ -1954,6 +2042,14 @@
             },
             {
                 "hatchery": "RED RIVER TROUT HATCHERY",
+                "lbs": 234,
+                "length": "10.5",
+                "number": 498,
+                "stock_date": "2024-08-05",
+                "species": "trout"
+            },
+            {
+                "hatchery": "RED RIVER TROUT HATCHERY",
                 "lbs": 263,
                 "length": "10.1",
                 "number": 631,
@@ -2086,6 +2182,14 @@
             },
             {
                 "hatchery": "RED RIVER TROUT HATCHERY",
+                "lbs": 1143,
+                "length": "10.5",
+                "number": 2435,
+                "stock_date": "2024-08-05",
+                "species": "trout"
+            },
+            {
+                "hatchery": "RED RIVER TROUT HATCHERY",
                 "lbs": 1203,
                 "length": "10.1",
                 "number": 2899,
@@ -2113,6 +2217,14 @@
                 "length": "10.0",
                 "number": 1200,
                 "stock_date": "2024-07-22",
+                "species": "trout"
+            },
+            {
+                "hatchery": "RED RIVER TROUT HATCHERY",
+                "lbs": 500,
+                "length": "10.1",
+                "number": 1200,
+                "stock_date": "2024-08-09",
                 "species": "trout"
             },
             {
@@ -2214,6 +2326,14 @@
                 "number": 241,
                 "stock_date": "2024-06-18",
                 "species": "trout"
+            },
+            {
+                "hatchery": "LISBOA SPRINGS TROUT HATCHERY",
+                "lbs": 100,
+                "length": "10.1",
+                "number": 241,
+                "stock_date": "2024-08-07",
+                "species": "trout"
             }
         ]
     },
@@ -2236,6 +2356,14 @@
                 "length": "10.0",
                 "number": 399,
                 "stock_date": "2024-07-17",
+                "species": "trout"
+            },
+            {
+                "hatchery": "LOS OJOS HATCHERY (PARKVIEW)",
+                "lbs": 164,
+                "length": "10.0",
+                "number": 400,
+                "stock_date": "2024-08-07",
                 "species": "trout"
             }
         ]
@@ -2459,6 +2587,14 @@
                 "number": 2999,
                 "stock_date": "2024-06-11",
                 "species": "trout"
+            },
+            {
+                "hatchery": "ROCK LAKE TROUT REARING FACILITY",
+                "lbs": 1744,
+                "length": "11.3",
+                "number": 3000,
+                "stock_date": "2024-08-08",
+                "species": "trout"
             }
         ]
     },
@@ -2640,6 +2776,51 @@
                 "length": "4.8",
                 "number": 29991,
                 "stock_date": "2024-07-29",
+                "species": "trout"
+            }
+        ]
+    },
+    {
+        "name": "CHAMA RIVER (BELOW ABIQUIU)",
+        "lat": 36.207241,
+        "long": -106.3186397,
+        "reports": [
+            {
+                "hatchery": "LOS OJOS HATCHERY (PARKVIEW)",
+                "lbs": 600,
+                "length": "11.3",
+                "number": 1026,
+                "stock_date": "2024-08-05",
+                "species": "trout"
+            }
+        ]
+    },
+    {
+        "name": "GOOSE LAKE",
+        "lat": 36.6685762,
+        "long": -105.4265322,
+        "reports": [
+            {
+                "hatchery": "RED RIVER TROUT HATCHERY",
+                "lbs": 184,
+                "length": "10.0",
+                "number": 449,
+                "stock_date": "2024-08-08",
+                "species": "trout"
+            }
+        ]
+    },
+    {
+        "name": "MT VIEW PONDS",
+        "lat": 34.9868656,
+        "long": -106.6586052,
+        "reports": [
+            {
+                "hatchery": "LISBOA SPRINGS TROUT HATCHERY",
+                "lbs": 78,
+                "length": "10.0",
+                "number": 190,
+                "stock_date": "2024-08-08",
                 "species": "trout"
             }
         ]
