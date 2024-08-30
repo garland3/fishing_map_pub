@@ -2653,6 +2653,14 @@
             },
             {
                 "hatchery": "LISBOA SPRINGS TROUT HATCHERY",
+                "lbs": 78,
+                "length": "10.0",
+                "number": 190,
+                "stock_date": "2024-08-08",
+                "species": "trout"
+            },
+            {
+                "hatchery": "LISBOA SPRINGS TROUT HATCHERY",
                 "lbs": 83,
                 "length": "10.4",
                 "number": 184,
